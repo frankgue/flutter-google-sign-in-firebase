@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "230812881441",
+    "project_id": "flutter--sign-firebase",
+    "storage_bucket": "flutter--sign-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230812881441:android:49c3bfcd0630f81cdbc960",
+        "android_client_info": {
+          "package_name": "cm.gkfcsolution.fluttergooglesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230812881441-fl08eamli26nsvblp9t65kikt0b5l7iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDPfcjagMt8N2ng1YtlnU5TjJt5UR69Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230812881441-fl08eamli26nsvblp9t65kikt0b5l7iq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "230812881441-9ti19opiiaf4auvall64ebikf1nshblb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cm.gkfcsolution.fluttergooglesign"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
